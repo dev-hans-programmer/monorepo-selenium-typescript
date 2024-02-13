@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/run.ts",
+  "scripts": {
+    "start": "ts-node src/run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

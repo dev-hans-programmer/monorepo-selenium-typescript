@@ -2,9 +2,14 @@
   "name": "selenium-fk",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx run demo:start"
+  },
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^1.6.2",
+    "ts-node": "^10.9.2"
+  },
   "devDependencies": {
     "@nx/js": "17.2.6",
     "nx": "17.2.6"
